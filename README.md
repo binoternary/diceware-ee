@@ -13,4 +13,4 @@ Loendi filtreerimine:
 Filtreeritud loendist indekseeritud nimekirja tegemine:  
 `python3 sonad.py lihtsad-lemmad.txt > diceware-ee.txt`
 
-Tulemus: [https://github.com/binoternary/diceware-ee/blob/master/diceware-ee.txt]
+Tulemus: [diceware-ee.txt](https://github.com/binoternary/diceware-ee/blob/master/diceware-ee.txt)
